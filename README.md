@@ -6,15 +6,15 @@ i created php project for farmer.  i created amazing ui. it manage inventory and
 ![Screenshot (5)](https://github.com/imdesai00/management_project/assets/115632510/db322ba6-7150-4f77-853b-840239d005a2)
 
 # Functinality.
--Login
--Export as Excel
--Crud in PHP
--Reminder
+1) Login
+2) Export as Excel
+3) Crud in PHP
+4) Reminder
 
 #How to use
 1) download or clone the project.
 2) import databse
 3) go to xammp and run apache and sql services
-4) go to browser and run [localhost/extra](http://localhost/extra/)http://localhost/extra/
+4) go to browser and run (http://localhost/extra/)http://localhost/extra/
 5) username-admin
    password-admin
