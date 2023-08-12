@@ -11,7 +11,7 @@ i created php project for farmer.  i created amazing ui. it manage inventory and
 3) Crud in PHP
 4) Reminder
 
-# How to use
+# How To Use
 1) download or clone the project.
 2) import databse
 3) go to xammp and run apache and sql services
