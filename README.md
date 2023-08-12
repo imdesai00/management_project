@@ -2,8 +2,8 @@
 i created php project for farmer.  i created amazing ui. it manage inventory and also apply some new functionallity like reminder system and it also gives you notification. i also created a new functionallity that export tabel data as pdf and other are simple crud opration in php.
 
 # Photos of System
-![Screenshot (2)](https://github.com/imdesai00/management_project/assets/115632510/835539bf-83ea-4271-90b0-6aef00e4a6c5)
-![Screenshot (5)](https://github.com/imdesai00/management_project/assets/115632510/db322ba6-7150-4f77-853b-840239d005a2)
+![Screenshot (2)](https://github.com/imdesai00/management_project/assets/115632510/4d319630-eb04-4ee6-a9d7-70bcb517ee17)
+![Screenshot (5)](https://github.com/imdesai00/management_project/assets/115632510/904c69e0-d803-4bbb-a1b1-513e3c1bda57)
 
 # Functinality.
 1) Login
